@@ -1,0 +1,42 @@
+{
+  "code": "dryingboxblock",
+	"behaviors": [
+
+		{ "name": "Lockable" },
+		{ "name": "Container"}
+	],
+
+  "class": "dryingboxmod101Class",
+  "entityClass": "dryingboxmod101Entity",
+
+  "creativeinventory": {
+    "general": [ "*" ],
+    "DryingBoxMod": [ "*" ]
+  },
+
+  "blockmaterial": "Wood",
+  "drawtype": "Cube",
+  "resistance": 3,
+
+  "textures": {
+    "all": { "base": "block/dryingboxtexture" }
+  },
+
+  "sounds": {
+    "place": "game:block/barrel",
+    "hit": "game:block/planks",
+    "break": "game:block/planks",
+    "walk": "game:walk/wood"
+  },
+  "Attributes": {
+
+    "closeSound": "game:block/barrel",
+    "openSound": "game:block/barrel",
+
+    "quantitySlots": 2
+  },
+  "combustibleProps": {
+		"burnTemperature": 500,
+		"burnDuration": 50
+	}
+}
