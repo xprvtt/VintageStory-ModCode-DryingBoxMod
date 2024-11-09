@@ -1,0 +1,12 @@
+C:\Users\xprvtt\source\repos\dryingboxmod101\bin\Debug\dryingboxmod101.deps.json
+C:\Users\xprvtt\source\repos\dryingboxmod101\bin\Debug\dryingboxmod101.dll
+C:\Users\xprvtt\source\repos\dryingboxmod101\bin\Debug\dryingboxmod101.pdb
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\dryingboxmod101.csproj.AssemblyReference.cache
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\dryingboxmod101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\dryingboxmod101.AssemblyInfoInputs.cache
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\dryingboxmod101.AssemblyInfo.cs
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\dryingboxmod101.csproj.CoreCompileInputs.cache
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\dryingboxmod101.dll
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\refint\dryingboxmod101.dll
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\dryingboxmod101.pdb
+C:\Users\xprvtt\source\repos\dryingboxmod101\obj\Debug\ref\dryingboxmod101.dll
